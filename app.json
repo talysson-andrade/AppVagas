@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-vagas",
-    "slug": "snack-b23368ea-7240-4c10-a7b2-8138bb6ddce8",
+    "name": "app_vagas",
+    "slug": "app_vagas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
